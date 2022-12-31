@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">SBPD Unit Tracker</string>
+    <!-- description -->
+    <string name="app_desc">SBPD Cradlepoint Integration for Unit tracking made by SBPD for SBPD from the Seal Beach Police Department Office of Geo-Spatial Intelligence and Reconnaissance. Special thanks to our Chief Scientific Officer the Honorable Jarrett Boice for his time devoted to this special project.</string>
+
+    <string name="c5_auth_text">Please Sign-In to NetCloud Manager.</string>
+</resources>
